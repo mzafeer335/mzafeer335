@@ -1,3 +1,5 @@
+![logo] (https://github.com/mzafeer335/mzafeer335/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Mohd Zafeer</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 
